@@ -1,0 +1,21 @@
+.awal {
+    background-color:rgb(202, 116, 35);
+    padding: 250px;
+    width: 1020px;
+}
+img{
+    position: absolute; 
+    left: 46%; 
+    top: 1%;
+    width: 100px;
+    
+}
+h1{
+    text-align: right;
+    color: white;
+    font-family: 'Times New Roman', Times, serif
+}
+p{
+    text-align: right;
+    color: white
+}
